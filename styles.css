@@ -74,4 +74,8 @@ h1{
         height: 50px;
     
     }
+    .choices{
+        gap: 2.5rem;
+       
+    }
 }
